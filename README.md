@@ -1,5 +1,5 @@
 # Nonogram-Solver-BlackWhite
-Solve a black &amp; white nonogram puzzle, given the row and column clues
+Solve a black &amp; white nonogram puzzle, given the row and column clues. TestCases examples came from the app Nonograms Katana.
 
 ### Files
 NonogramSolver.ipynb: First attempt at a solver; incomplete.
